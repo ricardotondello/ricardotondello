@@ -6,3 +6,6 @@ I’m Ricardo
 - :house: I’m Brazilian but currently living in Italy (:pizza: :wine_glass:)
 - ⚡ Fun fact: I have no right arm :muscle:
 - :tongue:: Portugues, English, Italian and learning Dutch. :eyes:
+
+
+![](https://komarev.com/ghpvc/?username=ricardotondello)
