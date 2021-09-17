@@ -3,7 +3,7 @@
 
 - 🔭 I currently work at [@BetssonGroup](https://www.betssongroup.com/) as a Software Engineer
 
-- :house: I'm Brazilian and currently living in Malta
+- :house: I'm Brazilian, Italian Citizen and currently living in Malta
 
 - :tongue: Portuguese, English and Italian. :eyes:
 
