@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I don't have the right arm :muscle:
 
 ![](https://komarev.com/ghpvc/?username=ricardotondello)
+
+![Snake animation](https://github.com/ricardotondello/ricardotondello/blob/main/github-contribution-grid-snake.svg)
