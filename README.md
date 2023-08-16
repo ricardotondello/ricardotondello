@@ -20,7 +20,7 @@ var ricardo = new SoftwareEngineer(
     aboutMe: new AboutMe("I'm currently working at https://www.nmbrs.com as a Software Engineer. 
                           Brazilian, Italian Citizen and living in Amsterdam"),
     languages: new[] { "Portuguese", "English", "Italian" }, 
-    funFact: new FunFact("I don't have the right arm"));
+    funFact: throw new BodyException("Right arm not found!"));
 ```
 
 <a href="https://www.buymeacoffee.com/ricardotondello" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
