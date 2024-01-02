@@ -3,10 +3,10 @@ public class SoftwareEngineer
 {
     public string Name { get; }
     public AboutMe AboutMe { get; }
-    public IEnumerable<Languages> Languages { get; }
+    public IEnumerable<Language> Languages { get; }
     public FunFact FunFact { get; }
 
-    public SoftwareEngineer(string name, AboutMe aboutMe, IEnumerable<Languages> languages, FunFact funFact)
+    public SoftwareEngineer(string name, AboutMe aboutMe, IEnumerable<Language> languages, FunFact funFact)
     {
         Name = name;
         AboutMe = aboutMe;
@@ -17,9 +17,8 @@ public class SoftwareEngineer
 
 var ricardo = new SoftwareEngineer(
     name: "Ricardo Tondello",
-    aboutMe: new AboutMe("I'm currently working at https://www.nmbrs.com as a Software Engineer. 
-                          Brazilian, Italian Citizen and living in Amsterdam"),
-    languages: new[] { "Portuguese", "English", "Italian" }, 
+    aboutMe: new AboutMe("I'm currently working at https://www.nmbrs.com as a Software Engineer in Amsterdam 🇳🇱"),
+    languages: new[] { "Portuguese 🇧🇷", "English 🇬🇧", "Italian 🤌" }, 
     funFact: throw new BodyException("Right arm not found!"));
 ```
 
